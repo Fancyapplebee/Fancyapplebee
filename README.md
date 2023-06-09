@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Fancyapplebee
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on PYcharm or VS2022
 - 📫 How to reach me andrew.fancyapplebee@gmail.com
 - ☕ Runs on coffee, but tea is good
 - 📖 Still a student
